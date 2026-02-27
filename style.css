@@ -1,13 +1,25 @@
-body{
-    background-color: rgb(129, 129, 255);
+.roxo{
+  background-color: rgb(96, 96, 253);
+    padding: 50px;
+    margin: 0px;
 }
 
-.yo{
-    padding: 50;
-    margin: 20;
-    background-color: rgb(255, 255, 119);
+.amarela{
+    background-color: rgb(253, 229, 96);
+    padding: 100px;
+    padding-bottom: 100px;
+    margin: 40px;
 }
 
 .flex{
     display: flex;
+    
+}
+
+.baixo{
+    padding-bottom:50;
+}
+
+.extender{
+    padding-right: 50px;
 }
