@@ -1,25 +1,24 @@
-.roxo{
-  background-color: rgb(96, 96, 253);
-    padding: 50px;
-    margin: 0px;
+body{
+    background-color:rgb(235, 0, 164);
 }
-
-.amarela{
-    background-color: rgb(253, 229, 96);
-    padding: 100px;
-    padding-bottom: 100px;
-    margin: 40px;
+.yo{
+    padding: 130;
+    margin: 30;
+    background-color: rgb(235, 0, 164);
 }
-
 .flex{
     display: flex;
-    
 }
 
-.baixo{
-    padding-bottom:50;
+.red{
+    padding-right: 450px;
+    background-color: rgb(194, 161, 216);
 }
-
-.extender{
-    padding-right: 50px;
+.yellow{
+    padding-bottom: 670px;
+    background-color: rgb(194, 161, 216);
+}
+.blue{
+    padding-bottom: 350;
+    background-color:  rgb(194, 161, 216);
 }
