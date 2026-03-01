@@ -1,24 +1,22 @@
 body{
-    background-color:rgb(235, 0, 164);
+    background-color: rgb(216, 9, 106);
 }
 .yo{
-    padding: 130;
-    margin: 30;
-    background-color: rgb(235, 0, 164);
+    padding: 130px;
+    margin: 30px;
+    background-color: rgb(216, 9, 106);
 }
 .flex{
     display: flex;
 }
 
-.red{
-    padding-right: 450px;
-    background-color: rgb(194, 161, 216);
-}
-.yellow{
+.green{
     padding-bottom: 670px;
-    background-color: rgb(194, 161, 216);
+     background-color: rgb(195, 117, 231);
 }
 .blue{
-    padding-bottom: 350;
-    background-color:  rgb(194, 161, 216);
+     padding-bottom: 350px;
+    margin-top: 40px;
+    background-color: rgb(195, 117, 231);
+
 }
